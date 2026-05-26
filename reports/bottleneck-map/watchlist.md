@@ -1,13 +1,40 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-26 09:09（第五轮扫描）  
+最后更新：2026-05-26 午后（第六轮扫描）  
 下次复查：下次扫描
 
 ---
 
 ## 重点关注（信号强度★★★★+）
 
-### 1. Aixtron (AIXA，法兰克福交易所) ★★★★ ⚠️H2执行高度后置 ⚠️市值修正：实际€6.09B
+### 1. Nittobo（3110.T，东京证券交易所）★★★★ 【2026-05-26午后 新增】
+**瓶颈环节**：T-glass玻纤布（ABF基板L3原材料，S级，90-100%市占率）  
+**市值**：¥921.4B ≈ $5.9B USD（目标区间 ✅）  
+**估值（绿灯）**：
+- 股价：¥25,890（从ATH ¥32,900回调约21%）
+- P/E：**24.8x**（同业均值25.8x，正常甚至略优）
+- P/S：**约8.3x**（$5.9B / $715.2M FY2025收入）
+- 分析师：5/5 Buy；平均目标价¥27,641（+6.76%）；最高目标¥33,000
+**瓶颈核心逻辑**：T-glass（低膨胀系数玻纤布）是防止AI GPU/ASIC先进封装翘曲的关键材料；Nittobo是全球唯一能稳定量产该材料的公司（90-100%市占率）；下游客户Apple、Nvidia、Google、Amazon齐来争夺产能；Nan Ya Plastics计划2027年起提供约20%替代——即2027年前Nittobo是单一来源。  
+**信号验证**：
+- ✅ 2025年8月涨价20%，2026年4月再涨20-30%（定价权确认）
+- ✅ H2 2026 T-glass供应缺口预计>40%（Morgan Stanley）
+- ✅ 投资¥15B扩产（但新产能2027年中前不上市）
+- ✅ 5位分析师全部Buy，0 Sell
+- ✅ 市值从ATH回调21%（入场时机比高点更合理）
+- ⚠️ T-glass约为Nittobo总营收约20%（估计：电子玻纤约60%总收入 × T-glass约30%的电子玻纤），低于30%纯正度门槛（纯正度问题存在但T-glass是最高利润率分部）
+- ⚠️ Nan Ya 2027年替代路径存在（20%），长期垄断将部分弱化
+- ⚠️ 日元汇率影响汇算收益
+
+**估值安全边际**：以¥921.4B（$5.9B）买入，10年25xPE退出，年化10%回报需净利润$612M（对应营收$3.5B，是当前$715M的4.9倍），CAGR约17%。目标可行但不宽裕——当前价格进入需承受一定估值压力。更合理的入场是等候回调至¥22,000-24,000（P/E约20-22x）。  
+**催化剂**：Q4 FY2026业绩（2026年秋季）；Nittobo Integrated Report 2026（确认T-glass收入占比）；2026年底Nan Ya产能能否如期投产（验证替代威胁时间线）  
+**建议动作**：加入重点关注；执行/bottleneck-hunter深入研究；等候进一步回调至¥22,000-24,000考虑建仓  
+**加入日期**：2026-05-26  
+**来源**：[Yahoo Finance 3110.T](https://finance.yahoo.com/quote/3110.T/) | [Tom's Hardware](https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market) | [SmartKarma估值](https://www.smartkarma.com/insights/nittobo-3110-jp-scarcity-premium-in-ai-substrates-with-strong-earnings-visibility) | [Global Tech Research](https://globaltechresearch.substack.com/p/nittobo-3110-jp-the-king-of-electronic)
+
+---
+
+### 2. Aixtron (AIXA，法兰克福交易所) ★★★★ ⚠️H2执行高度后置 ⚠️市值修正：实际€6.09B
 **瓶颈环节**：InP MOCVD外延设备（A级）  
 **市值**：**€6.09B（实际，2026-05-25）**（前期估算€2-3B严重偏低）  
 **估值（更新）**：P/S = **10.9x**（€6.09B ÷ €560M指引），P/E = **101.58x**；当前价 €53.66，52周高 €55.28；Berenberg目标价 €42（较现价低22%，已触发下调）  
@@ -171,7 +198,23 @@
 
 ## 观察中（信号强度★★）
 
-### 9. L3Harris Missile Solutions（即将IPO） 【更新：旧编号8，顺延】
+### 9. Almonty Industries（TSX:AII / OTC:ALM）★★ 【2026-05-26午后 新增】
+**代码**：AII.TO（TSX）/ ALM（OTC）  
+**瓶颈环节**：西方钨矿供应（S级跨趋势瓶颈——AI+国防+工业）  
+**市值**：C$5.22B（约$3.8B USD）  
+**待验证事项**：
+- 估值：基于Q1年化约P/S 37x——高位，但收入增速+221%（技术上豁免PS红线），需等Q2-Q3数据确认增速持续性
+- Sangdong Phase 1产量爬坡是否如期（设计2300吨/年），实际产量vs设计产能
+- Phase 2（2027）进展：能否如期扩至4600吨/年（覆盖全球非中国需求约40%）
+- 钨价能否维持高位（当前+557%）还是中国管控有所松动
+- 与美国国防部的直接采购合同进展（2027年1月1日截止中俄来源）
+
+**加入日期**：2026-05-26  
+**来源**：[InvestingNews Q1](https://investingnews.com/almonty-industries-reports-first-quarter-2026-financial-results/) | [StockAnalysis AII](https://stockanalysis.com/quote/tsx/AII/)
+
+---
+
+### 10. L3Harris Missile Solutions（即将IPO） 【更新：旧编号8，顺延】
 **代码**：待定（来自LHX分拆）  
 **瓶颈环节**：固体火箭发动机（A级）  
 **待验证**：S-1提交进程；IPO估值；DoD $10亿优先股稀释条款；战略自主性  
@@ -197,6 +240,7 @@
 | Nvidia | Layer 0，不是瓶颈本身 | 2026-05-25 |
 | Powell Industries (POWL) | 数据中心配电受益，但市值$5.6B且$400M大单已price-in，估值不够便宜 | 2026-05-25 |
 | 顺钠股份 (000533.SZ) | 数据中心变压器受益，但控股股东6月司法拍卖1.2亿股存在重大不确定性 | 2026-05-25 |
+| ICL Group (NYSE:ICL) | 溴化物瓶颈真实，但Industrial Products（含溴）仅占总收入17.3%，不达30%纯正度门槛；非可投资纯正标的 | 2026-05-26 |
 
 ---
 
@@ -225,3 +269,6 @@
 | 2026-05-26 08:10 | ACLS | **新增★★★（VECO合并后载体）** | 合并后MOCVD+离子注入双平台，合并后P/S~3.3x合理；等SAMR结果+回调至分析师目标区间$100-110再评估 |
 | 2026-05-26 09:09 | CHG.L | **Sole-source确认，候选★★★★★** | Nammo"完全依赖Chemring Nobel作为MCX唯一合格供应商"——合同文本证据；12年Diehl框架协议£200M；German/NATO 155mm供应链卡脖子位置锁定 |
 | 2026-05-26 09:09 | LEU | **信息更新（评级不变★★★）** | Oak Ridge $560M扩产（+Fluor/Palantir）；DOE $900M任务订单；⚠️Q1净利润$10M（vs去年$27.2M，下滑63%），需监控盈利质量 |
+| 2026-05-26（午后） | 3110.T | **新增★★★★重点关注** | Nittobo：T-glass 90-100%垄断；P/E 24.8x绿灯；$5.9B市值；5/5 Buy；Apple/Nvidia/Google/Amazon争夺产能；今日最重要新发现 |
+| 2026-05-26（午后） | AII.TO | **新增★★观察中** | Almonty Industries：西方最大钨矿纯正标的；Q1营收+221% YoY；但P/S~37x高位；Sangdong Phase 2产量待验证 |
+| 2026-05-26（午后） | ICL | **排除** | 溴化物业务占总收入仅17.3%，不达30%纯正度门槛；正式不追踪 |

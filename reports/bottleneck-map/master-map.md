@@ -1,30 +1,58 @@
 # 供应链瓶颈总地图（持续更新）
 
-最后更新：2026-05-26 09:09（第五轮扫描）
+最后更新：2026-05-26 午后（第六轮扫描）
 
 ---
 
 ## 地缘政治S级瓶颈（战争/政治驱动，区别于结构性产能瓶颈）
 
-### 0a. 半导体级氦气（Qatar/伊朗战争）【2026-05-26 新增】
-**核心数据**：Qatar占全球氦气33%供应（USGS）；2026-02-28伊朗导弹打击Ras Laffan，Qatar停产；韩国65%氦气进口依赖Qatar（三星、SK Hynix所在地）；修复周期3-5年；晶圆制造中氦气冷却**无可替代**；主要DRAM厂商现有库存仅"数月"（2-4个月估计）
-**紧张程度**：极高——非产能不足，而是物理断供，资本开支无法解决
-**瓶颈判定**：供给集中🔴（Qatar 33%）| 扩产周期🔴（3-5年修复）| 替代难度🔴（无替代）| 产能利用率🔴（停产）| 需求增速🔴（持续）= **S级**
-**风险因子**：美国、俄罗斯、澳大利亚是替代供应来源，若战争6个月内结束+替代快速启动，缺口可控
-**投资意义**：无直接投资标的（氦气供应为工业气体巨头附属业务，Air Products/Linde太大），但须监控三星/SK Hynix库存状态；如库存耗尽，HBM/DRAM供给将直接收缩
-**来源**：[Fortune](https://fortune.com/2026/03/21/iran-war-helium-shortage-qatar-chip-supply-chains-ai-boom/) | [CNBC](https://www.cnbc.com/2026/03/19/the-iran-war-is-threatening-supply-helium-what-it-means-for-markets.html)
+### 0a. 半导体级氦气（Qatar/伊朗战争 + 俄罗斯出口管制）【2026-05-26 新增 | 2026-05-26午后 状态更新】
+**核心数据**：Qatar占全球氦气33%供应（USGS）；2026-02-28伊朗导弹打击Ras Laffan，Qatar停产；韩国65%氦气进口依赖Qatar；修复周期3-5年；晶圆制造中氦气冷却**无可替代**  
+**2026-05-26午后 重大更新（两个新事实）**：
+- 🔴 **俄罗斯2026-04-14对氦气实施出口管制，有效期至2027年底**——任何向欧亚经济联盟外出口均须总理级审批；俄对华氦气出口2025年+60% YoY，供应重定向中国，西方可获取量进一步收窄。"仅约一半Qatar缺口可被替代"（前期市场假设更乐观）
+- 🟢 **Samsung和SK Hynix已于2026年4月与Linde+Air Products签长期美国供应合同**——两家最大DRAM厂商急性断供风险已解除；但成本大幅上升（已接受高价锁定合同）；台积电/其他晶圆厂状态仍须监控
+
+**紧张程度**：从"潜在灾难性断供"→**"高成本强制约束"**，S级分类维持，性质已转变  
+**当前状态**：Samsung/SK Hynix已自保；整体行业氦气成本上升10-30%（估计）；台积电/美光的合约状态待核实  
+**投资意义**：无纯正小市值标的（Air Products、Linde太大）；间接影响：DRAM成本上升→HBM涨价压力→AI基础设施成本上升  
+**来源**：[Fortune](https://fortune.com/2026/03/21/iran-war-helium-shortage-qatar-chip-supply-chains-ai-boom/) | [CNBC](https://www.cnbc.com/2026/03/19/the-iran-war-is-threatening-supply-helium-what-it-means-for-markets.html) | [俄罗斯出口管制](https://www.themoscowtimes.com/2026/04/14/russia-introduces-helium-export-controls-amid-global-shortage-a92496) | [Samsung/SK US合同](https://www.chemanalyst.com/NewsAndDeals/NewsDetails/samsung-and-sk-hynix-finalize-long-term-helium-supply-agreements-41751)
 
 ---
 
-### 0b. 溴化物/HBr气体（以色列ICL Group）【2026-05-26 新增，A级候选升S级路径】
-**核心数据**：以色列ICL Group控全球溴35%；以色列+约旦合计占全球产量约2/3；韩国97.5%溴进口依赖以色列；半导体刻蚀工艺使用氢溴酸（HBr）——DRAM/NAND晶体管图案刻蚀的核心化学品；Samsung/SK Hynix现有库存**仅2-3周**；建立新纯化产能需数年
-**紧张程度**：高——gasworld称"比氦气更危险"，库存更短
-**相关公司**：ICL Group（NYSE:ICL，~$80亿美元，但溴化物业务占比待核实）
-**来源**：[gasworld](https://www.gasworld.com/story/bromine-supply-risk-more-dangerous-than-helium-for-chip-industry/2246847.article/) | [Digitimes](https://www.digitimes.com/news/a20260415VL213/supply-chain-materials-production-manufacturing-logistics.html)
+### 0b. 溴化物/HBr气体（以色列ICL Group）【2026-05-26 新增，A级 | 2026-05-26午后 投资标的确认排除】
+**核心数据**：以色列ICL Group控全球溴35%；以色列+约旦合计占全球产量约2/3；韩国97.5%溴进口依赖以色列；半导体刻蚀工艺使用氢溴酸（HBr）——DRAM/NAND晶体管图案刻蚀核心化学品；Samsung/SK Hynix现有库存仅2-3周；建立新纯化产能需数年  
+**紧张程度**：高——gasworld称"比氦气更危险"  
+**投资标的状态（2026-05-26午后确认）**：ICL Group Industrial Products分部（含溴化物）Q1 2026营收$349M，占总营收$2.02B仅17.3%；溴化物是该分部众多产品之一，实际占比<10%总收入。**不达30%纯正度门槛，ICL不是可投资的溴化物瓶颈纯正标的。**  
+**相关公司**：ICL Group（NYSE:ICL，~$80亿美元，已确认非纯正可投资标的）  
+**来源**：[gasworld](https://www.gasworld.com/story/bromine-supply-risk-more-dangerous-than-helium-for-chip-industry/2246847.article/) | [ICL Q1分析](https://www.tipranks.com/news/company-announcements/icl-posts-strong-q1-2026-results-on-higher-bromine-potash-and-phosphate-prices)
 
 ---
 
 ## S级瓶颈（单点故障级）
+
+### 0c. 钨（W）供应链危机【2026-05-26午后 新增，S级，跨AI+国防+工业三趋势】
+**核心数据**：
+- 中国控全球钨产量约85%；2025年初实施出口管制后，国际市场供应"实质消除"
+- 全球钨价较管制前**+557%**（2026年5月）
+- BMO预测2026年全球供给继续净短缺
+- 西方新矿建设周期10-15年（从勘探到投产）
+- 美国：**2027年1月1日**截止使用中/俄/伊/朝来源钨用于国防采购
+- 应用场景：半导体（BEOL互连金属，先进制程不可替代）+ 国防（穿甲弹、导弹、无人机）+ 工业钻头
+
+**瓶颈判定**：
+- 供给集中🔴（中国原占85%，已切断）
+- 扩产周期🔴（10-15年）
+- 替代难度🔴（熔点最高金属，无实用替代）
+- 需求增速🔴（AI+国防同时加速）
+= **S级**
+
+**相关公司**：
+- **Almonty Industries**（TSX:AII / OTC:ALM，市值C$5.22B≈$3.8B）：韩国Sangdong矿Phase 1已量产（2300吨/年），2027年Phase 2（4600吨/年），届时可供全球非中国需求约40%；葡萄牙、西班牙、加拿大、美国多矿区。Q1 2026营收$25.4M（+221% YoY）。**估值警告**：P/S约37x（基于Q1年化），高位但收入增速>100%可技术豁免；尚处于产量爬坡阶段。
+- 其他：American Tungsten Corp（TUNG.CN，加拿大，极早期探矿，市值C$136M，不在主追踪范围）
+
+**来源**：[GoldInvest钨价+557%](https://goldinvest.de/en/tungsten-price-on-record-course-export-limits-from-china-and-defense-demand-intensify-shortage/) | [TechMacroArchive](https://techmacroarchive.com/semiconductor-supply-chain-2026-the-helium-tungsten-crisis/) | [Almonty Q1 2026](https://investingnews.com/almonty-industries-reports-first-quarter-2026-financial-results/)
+
+---
 
 ### 1. InP衬底（磷化铟衬底）
 **核心数据**：全球需求260-300M片/年 vs 有效产能约75M片（缺口>70%）  
@@ -83,19 +111,25 @@
 **核心数据**：SK Hynix + Samsung + Micron全部产能售罄至2026年底，部分客户已锁定2027年配额  
 **主要供应商**：SK Hynix (000660), Samsung (005930), Micron (MU)
 
-### 6. ABF基板 + ABF原材料（Layer 3升级） 【2026-05-26 更新：发现L3瓶颈】
+### 6. ABF基板 + ABF原材料（Layer 3升级）【2026-05-26 更新：发现L3瓶颈 | 2026-05-26午后 新增T-glass子条目】
 **核心数据（L2基板层）**：Semco 2026年产能全被大科技公司预订；价格涨幅预期上调至30-35%；新产能最早2028年落地  
-**核心数据（L3材料层，新发现）**：
+**核心数据（L3材料层一：ABF膜）**：
 - **味之素ABF膜（Ajinomoto Build-up Film）**：Ajinomoto（TYO:2802）控**95%+**全球ABF材料市场份额
 - 已通知IC载板厂Q3 2026涨价**30%**（Digitimes 2026-05-13确认）
 - AI GPU封装层数从3+3升至11+11→13+13，推动ABF膜需求加速
-- **T-glass（高端玻纤布）** H2 2026供应缺口预计>40%（ABF基板上游另一瓶颈）
 - Morgan Stanley预计2027年ABF严重短缺
-**重要性**：ABF瓶颈已从"基板产能"（L2）传导到"原材料垄断"（L3），Ajinomoto的定价权决定整个ABF链成本
-**投资意义**：Ajinomoto是大型食品公司（MSG主业），ABF非主业，非纯正投资标的；但此信号对Ibiden（TYO:4062）、欣兴（TW:3037）等基板厂的成本结构有直接负面影响
+- **投资意义**：Ajinomoto食品主业，ABF非主业，非纯正标的
+
+**核心数据（L3材料层二：T-glass玻纤布）【2026-05-26午后 识别出可投资标的】**：
+- **Nittobo（TYO:3110）**持有全球T-glass约90-100%市场份额（唯一稳定量产商）
+- T-glass（低膨胀系数玻纤布）是ABF基板的关键基材，防止先进AI芯片封装中的基板翘曲
+- Nittobo已于2025年8月涨价20%；2026年4月再涨20-30%
+- H2 2026供应缺口预计>40%（Morgan Stanley估计）；Nan Ya Plastics合作伙伴计划2027年提供Nittobo产量约20%替代
+- **可投资标的：Nittobo（3110.T）**：市值¥921.4B≈$5.9B；P/E **24.8x**（同业均值25.8x）；P/S约8.3x；5分析师Buy，0 Sell；**估值绿灯**；Apple/Nvidia/Google/Amazon均在争夺产能；已从ATH ¥32,900回调21%至¥25,890
+
 **主要供应商**：Samsung Electro-Mechanics (009150), Ibiden (4062), Shinko Electric (6967), Unimicron (3037)  
-**原材料供应商**：Ajinomoto（TYO:2802，ABF膜95%份额，食品多元化，非纯正标的）
-**来源**：[Digitimes ABF膜涨价](https://www.digitimes.com/news/a20260513PD230/ic-substrate-abf-substrate-demand-substrate-2026.html) | [BigGo ABF 30%](https://finance.biggo.com/news/ZU2KJZ4BpwxG186NIOsE)
+**原材料供应商**：Ajinomoto（TYO:2802，ABF膜95%份额，非纯正标的）| **Nittobo（3110.T，T-glass ~90-100%，✅可投资，估值绿灯）**  
+**来源**：[Digitimes ABF膜涨价](https://www.digitimes.com/news/a20260513PD230/ic-substrate-abf-substrate-demand-substrate-2026.html) | [T-glass shortage Tom's Hardware](https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market) | [Nittobo研究](https://globaltechresearch.substack.com/p/nittobo-3110-jp-the-king-of-electronic)
 
 ### 7. 晶圆级探针卡（Probe Card）
 **核心数据**：FormFactor Q1 2026收入$226M（+32% YoY），DRAM收入+70%；管理层称2026年产能满产；HBM4被定为"重大拐点"  
@@ -208,3 +242,7 @@
 | 2026-05-26 09:09 | **Chemring sole-source确认** | Nammo "完全依赖Chemring Nobel作为MCX唯一合格供应商"——12年Diehl合同文本证据；德国155mm供应链咽喉位置文本锁定 |
 | 2026-05-26 09:09 | **新增背景信号** | Lake City Army Ammunition Plant罢工（4/4起）：1350+工人，生产几乎停摆；30%美军.223/5.56产量受影响；性质：劳资纠纷非结构性瓶颈；不列主追踪，作为美国弹药供应链压力背景信号 |
 | 2026-05-26 09:09 | **LEU信息更新** | Centrus Oak Ridge $560M扩产（1月宣布）+ Fluor工程合作 + DOE $900M HALEU任务订单 + Q1净利润大幅下滑（$27.2M→$10M）；增速放缓需关注 |
+| 2026-05-26（午后） | **状态修正 氦气0a** | 俄罗斯2026-04-14对氦气实施出口管制至2027年底，向欧亚联盟外出口须总理审批；俄对华供应+60%；西方可替代量"仅约一半Qatar缺口"；Samsung/SK Hynix已与Linde/Air Products签US长期合同（危机部分自保）；性质从"灾难性断供"→"高成本供给约束" |
+| 2026-05-26（午后） | **投资标的排除 溴化物0b** | ICL Group Industrial Products（含溴化物）仅占总收入17.3%，不达30%纯正度门槛；溴化物瓶颈真实但无可投资纯正标的；ICL正式排除出观察名单候选 |
+| 2026-05-26（午后） | **新增 S级** | 钨（W）：中国出口管制消除国际供应，价格+557%，AI+国防双驱动，10年+扩产周期；Almonty Industries（TSX:AII）是西方最大纯正供应商（Sangdong矿韩国，40%非中国需求覆盖潜力） |
+| 2026-05-26（午后） | **新增 L3 可投资标的** | T-glass玻纤布子条目新增Nittobo（3110.T）详情：90-100%市占、P/E 24.8x绿灯、¥921.4B市值、5分析师Buy；ABF→T-glass瓶颈链中首个"真实垄断+估值合理"可投资标的 |

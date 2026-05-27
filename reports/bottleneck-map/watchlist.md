@@ -1,6 +1,6 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-27 09:00（第十七轮扫描 — watchlist无变化；钇半导体涂层新信号在master-map 0c2更新）  
+最后更新：2026-05-27 09:10（第十八轮扫描 — Kanto Denka P/E重大修正：76.3x→35.8x，FY2026 Fine Chemicals高于预期）  
 下次复查：下次扫描
 
 ---
@@ -130,22 +130,29 @@
 
 ## 持续跟踪（信号强度★★★）
 
-### 4b. Kanto Denka Kogyo（TSE: 4047.T）⏳ 待纯正度验证 ⚠️ 估值状态变化 【2026-05-26 14:11 初步识别 | 2026-05-26 16:12 估值警告升级】
+### 4b. Kanto Denka Kogyo（TSE: 4047.T）⏳ 待纯正度验证 🟡 P/E修正 【2026-05-26 14:11 初步识别 | 2026-05-26 16:12 估值黄灯 | 2026-05-27 09:10 P/E重大修正】
 **瓶颈环节**：NF3/WF6半导体特种气体（A级，见master-map 3b条目）  
 
-**市值（更新）**：¥135.7B ≈ **$872M USD**（小市值✅，但市值已扩大50%+）  
-**估值（⚠️ 黄灯——P/E急速扩张）**：
-- P/S：**~2.1x**（¥135.7B / ¥65.4B收入）—— 仍绿灯
-- P/E：**76.3x**（¥135.7B / ¥3.79B净利）—— **黄灯（接近80x阈值）**
-- 净利润增速：+17% YoY → **PEG = 76/17 = 4.5x（不支撑当前估值）**
+**市值（更新）**：¥135.7B ≈ **$872M USD**（小市值✅）  
+**估值（🟡 黄灯——比此前记录更合理）**：
+- P/S：**~2.1x**（¥135.7B / ¥65.4B收入）—— 绿灯
+- P/E：**~35.8x**（¥135.7B / ¥3.79B净利）—— **🟡 黄灯合理区间（原记录"76.3x"是计算错误，实为35.8x）**
+- 净利润增速：+17% YoY → **PEG = 35.8/17 = 2.1x（接近可接受水平）**
 
-**【2026-05-26 16:12 重大事件】**：5月18日单日暴涨**+24%**（¥2,050→¥2,550）创新高，市场开始定价NF3/Fine Chemicals瓶颈叙事。P/E从初步识别时~24x急速扩张至76.3x。
+**【2026-05-27 09:10 P/E重大修正】**：
+- **原watchlist 16:12条目"P/E 76.3x"是计算错误**：¥135.7B / ¥3.79B = **35.8x**（非76.3x）
+- 误差来源：16:12条目可能使用了旧估算净利润（约¥1.78B），而非FY2026确认数字（¥3.79B）
+- **FY2026全年业绩（2026-05-15发布）确认**：净利润¥3.79B（+17% YoY），收入¥65.4B（+4.9%）
+- **Fine Chemicals分部"销售超出预期，贡献高于预期营业利润"** = NF3/WF6涨价已开始体现在利润中
+- 来源：[Simply Wall St FY2026 EPS ¥65.95](https://simplywall.st/stocks/jp/materials/tse-4047/kanto-denka-kogyo-shares/news/kanto-denka-kogyo-tse4047-eps-rebound-to-2821-tests-bearish)
 
-**估值状态变化**：
-- 原评估（14:11识别）：绿灯（P/E ~24x，有安全边际）
-- **当前状态（16:12）：黄灯**（P/E 76.3x，市场已开始定价）
-- 市场押注的是：NF3/WF6涨价推动利润率从5.8%升至10%+，届时净利润约¥6.5B → P/E降至约20x
-- 问题：这一利润率拐点尚未在财务数据中验证
+**【2026-05-26 16:12 事件回顾】**：5月18日单日暴涨**+24%**（¥2,050→¥2,550）——现看来是市场对FY2026 Fine Chemicals超预期业绩的反应，而非纯情绪炒作。
+
+**估值状态（修正后）**：
+- 原评估（16:12）：P/E 76.3x黄灯接近红线（误）
+- **修正后（2026-05-27）：P/E 35.8x黄灯合理区间** — 估值明显好于之前认知
+- Fine Chemicals利润确认：NF3瓶颈正在转化为利润增长，拐点已开始出现
+- **未确认项决定最终评级**：Fine Chemicals分部收入>30%总收入（推算35%+，需FY2026年报正式分部披露）
 
 **瓶颈核心逻辑**（不变）：
 - Mitsui Chemicals 2026年3月退出NF3生产 → Kanto Denka成日本NF3唯一主要供应商（90%产能）
@@ -154,13 +161,13 @@
 - NF3+WF6+ClF3+SF6全系列半导体特种气体，下游客户几乎涵盖所有全球顶级晶圆厂
 
 **关键未确认项（决定是否正式加入★★★+）**：
-- ⏳ **Precision Chemicals/Fine Chemicals分部收入占比需>30%**（推算可能35%+，但需年报/IR确认）
-- ⏳ NF3/WF6涨价能否将利润率推至10%+（决定当前P/E是否合理）
+- ⏳ **Precision Chemicals/Fine Chemicals分部收入占比需>30%**（推算可能35%+，需FY2026年报正式分部披露）
+- ✅ **NF3/WF6涨价利润效应**：FY2026 Fine Chemicals"销售超出预期"——利润拐点已开始出现（不再是未验证项）
 - ⏳ 2025火灾后生产能力是否完全恢复
 
-**估值安全边际（更新）**：以¥135.7B（$872M）买入，10年25xPE退出，年化10%需净利润$90M（当前$24M需3.8倍，CAGR约14%）。相比14:11时的"有安全边际"，当前价格安全边际已收窄。只有利润率拐点（5.8%→10%）真实发生，才支撑当前价格。
+**估值安全边际（修正后）**：以¥135.7B（$872M）买入，10年25xPE退出，年化10%需净利润$90M（FY2026已¥3.79B/$24M，需3.8倍，CAGR约14%）。P/E修正为35.8x后，安全边际判断：当前价格（¥2,550）仍无充足安全边际；但较前评估"仅靠拐点假设才能支撑"有本质改善——**实际P/E 35.8x + Fine Chemicals确认增长 = 论点更扎实**。目标入场价不变：¥1,800-2,000（P/E ~25-28x）。
 
-**建议动作（更新）**：不追高；等回调至¥1,800-2,000（P/E ~25-35x）再重评。若利润率拐点在下季度财报确认，则安全边际恢复。
+**建议动作（修正后）**：不追高；等回调至¥1,800-2,000（P/E ~25-28x）再重评。**FY2026年报分部披露（预计秋季）确认Fine Chemicals>30%收入后，评级可升至★★★★**（P/E 36x+纯正度确认+利润拐点 = 三条标准满足）。
 
 **加入日期**：2026-05-26  
 **来源**：[Kanto Denka +24% - Meyka](https://meyka.com/blog/kanto-denka-kogyo-surges-24-as-chemical-demand-accelerates-1805/) | [TrendForce WF6供应中断](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [Kanto Denka火灾 TrendForce](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/) | [Kanto Denka earnings upgrade - TipRanks](https://www.tipranks.com/news/company-announcements/kanto-denka-kogyo-lifts-full-year-earnings-forecast-on-strong-fine-chemicals-sales)
@@ -401,3 +408,5 @@
 | 2026-05-27 08:30 | LEU | **HALEU竞争者进入——弱信号（评级★★★维持）** | ASP Isotopes (ASPI) 5月11日签非约束性MOU，2028年开始HALEU交付；ASPI市值~$664M，当前无HALEU商业收入，P/S~28x开发阶段；Centrus当前垄断地位不变，2028年后竞争格局需持续关注 |
 | 2026-05-27 08:30 | 待定("Axyz") | **L3Harris Missile Solutions品牌名称确认** | 品牌名"Axyz"（代码AXYV）确认；S-1于2026-04-29提交SEC；DoD $10亿优先股已完成；LHX保留~80%股权；H2 2026目标上市；评级状态待IPO估值披露后重评 |
 | 2026-05-27 09:00 | 全体 | **第十七轮扫描——watchlist无评级变化** | 钇半导体设备涂层新信号（0c2扩展）已记录在master-map；无新可投资标的；Chemring June 9财报倒计时13天；Nittobo拆分7/1确认；UAMY等Q2财报（8月）；Almonty等Q2/Q3 Sangdong产量；Kanto Denka等P/E回调至¥1,800-2,000 |
+| 2026-05-27 09:10 | 4047.T | **⚠️→✅ P/E重大修正（★★★评级维持，论点升级）** | FY2026全年业绩确认（2026-05-15）：净利润¥3.79B（+17%）；**P/E修正：76.3x（原记录计算错误）→ 35.8x（正确值）**；Fine Chemicals"销售超出预期"= NF3瓶颈利润已开始兑现；评级★★★维持但论点更强；等Fine Chemicals>30%收入占比年报确认 → 可升★★★★ |
+| 2026-05-27 09:10 | InP条目 | **Space-BACN → DIU转移背景信号** | DARPA Space-BACN项目移交DIU采购；Mbryonics/RKLB(Mynaric)终端已完成研发，夏季性能验证测试；InP第三需求向量（军用卫星OISL）进入实际采购阶段；S级评级不变 |

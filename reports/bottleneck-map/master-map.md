@@ -412,6 +412,41 @@
 
 ---
 
+### 9c. 溴化物（Bromine）—— 伊朗战争引发的半导体蚀刻化学品隐性断供 【2026-06-05 新增，A级】
+
+**核心数据**：
+- 全球溴年产量约47万吨；ICL Group（以色列死海）控制约**40%全球供应**，提供**韩国97.5%进口**（Digitimes 2026-04-15）
+- 溴价已涨至**$12,000/MT**（约为正常水平2倍）；gasworld 2026年明确称溴供应风险**"比氦气更危险"**
+- 主要用途：DRAM/NAND蚀刻（溴化氢HBr是先进节点关键蚀刻剂）+ 难燃阻燃剂（电路板）
+- 全球65%+溴产量来自以色列和约旦，ICL死海盐湖复合体是主要生产节点
+- **无短期可行替代方案**：氯基替代在先进DRAM节点（sub-20nm）几何结构下蚀刻效果不足
+
+**瓶颈触发机制（伊朗战争结构性驱动）**：
+- 2026年3月伊朗冲突导致中东供应链普遍中断，以色列ICL生产设施处于导弹威胁范围
+- ICL死海复合体距伊朗导弹打击区约35公里
+- 全球90%以上半导体级溴化氢（HBr）来自ICL和Jordan Bromine（合资，ICL控）
+- Strait of Hormuz事实上封闭，Qatar/中东化学品出口受阻（影响与氦气危机同源）
+
+**瓶颈判定**：
+- 供给集中🔴（ICL 40%全球+97%韩国，单点暴露极高）
+- 替代难度🔴（先进节点无可行氯基替代）
+- 产能利用率🔴（价格2倍，隐含产能紧张或恐慌性库存积累）
+- 需求增速🔴（AI驱动DRAM/HBM需求持续）
+= **A级**（3个核心红灯；与氦气S级同属中东冲突单一触发来源）
+
+**相关公司与投资意义**：
+- **ICL Group（NYSE:ICL，~$9B）**：最大受益者，但多元化（农化/食品/溴/磷），溴占收入比例估计<30%——**纯正度不合格，不作主投资标的**
+- **Albemarle（ALB）**：美国溴产业（Arkansas）第二大来源，但市值>$100亿+，且锂业转型，非纯正标的
+- **Jordan Bromine Company（私有）**：ICL与Jordan合资，私有不可投资
+- **Tosoh（TYO:4042）**：日本，高纯HBr，需进一步核实纯正度
+- **结论**：A级瓶颈确认，无符合标准（小市值+纯正度>30%）的可投资标的；持续跟踪是否有小市值HBr处理商
+
+**与已知瓶颈的关系**：溴化物是中东冲突触发的第三条半导体材料断供链（氦气→溴化物→PGME/PGMEA），共同构成伊朗战争对半导体供应链的深度结构性损伤。
+
+**来源**：[Digitimes 韩国97.5%依存度 2026-04-15](https://www.digitimes.com/news/a20260415VL213/supply-chain-materials-production-manufacturing-logistics.html) | [Gasworld 溴比氦气更危险](https://www.gasworld.com/story/bromine-supply-risk-more-dangerous-than-helium-for-chip-industry/2246847.article/) | [Bromine Chokepoint War on the Rocks](https://warontherocks.com/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) | [EE Times $12,000/MT](https://www.eetimes.com/middle-east-turmoil-materials-shortage-fuel-price-hike-disrupting-chip-industry/) | [Iran War Semiconductor Supply Chain — Tim Harper](https://timharper.net/iran-war-semiconductor-supply-chain-impact/)
+
+---
+
 ## B级瓶颈（有压力但供应侧在快速响应）
 
 ### 10. HALEU（高丰度低浓缩铀）— SMR燃料链最上游 【2026-05-26 新增，B+级，2027+可能升A级】

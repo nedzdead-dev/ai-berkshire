@@ -5907,3 +5907,32 @@ Kanto Denka Kogyo 7/1永久停止WF6生产，**投资论点核心为NF3，而非
 
 *来源：本轮新增见 reports/bottleneck-map/2026-06-19/13-00-IQE.L.md*
 
+
+---
+
+## 状态快照（2026-06-19 15:00 — 第238轮扫描）
+
+### 本轮操作
+
+| 时间 | 标的 | 操作 | 说明 |
+|------|------|------|------|
+| 2026-06-19 15:00 | **AXYV（L3Harris Missile Solutions，待IPO）** | **DPA June 11确认SRM S级瓶颈，pre-IPO论文强化** | 2026-06-11 Trump签DPA Section 708令，Pentagon明确列举"limited production capacity、fragile supply chains、long-lead dependencies"；SRM 6项评判标准全部🔴（S级瓶颈）；DoD $10亿投资已于4/23关闭；机密S-1于4/29申报；JPMorgan+Morgan Stanley承销；IPO计划H2 2026。★★★（pre-IPO）维持，等S-1正式公开后执行估值检查 |
+| 2026-06-19 15:00 | **IQE.L** | **offer period关闭上下文补录（★★★★维持）** | 2026-01进入UK Takeover Code offer period，2026-04/05战略审查结束无全面收购；MACOM作为战略伙伴投入£4500万（£3000万股权@19.8p + £1500万LTSA），总融资£8100万于5/15股东批准；offer period已关闭，去除收购溢价预期。FY2025营收-17.6%（无线-40%，光子+15%），GAAP亏损扩大。★★★★维持：Tower合同+InP供需主线完整，但FY2025亏损是新负面数据点 |
+
+### 新增观察候选
+
+| 标的 | 代码 | 评级 | 加入原因 |
+|------|------|------|---------|
+| Cleveland-Cliffs | CLF | 信号B级（不进正式名单） | 美国唯一GOES生产商；变压器需求+274%，交期4-5年，DPA纳入4月2026；市值$76亿（>$100亿门槛除外），GOES仅占~5-10%总收入，非纯正标的；记录为变压器/电网升级主题背景信号 |
+
+### 倒计时事件（T-11天或以内）
+
+| 事件 | 截止日 | T-days | 标的 | 状态 |
+|------|--------|--------|------|------|
+| DOE Option 1b决策 | 6/30 | T-11 | LEU | 无新公告，每日监控 |
+| Kanto Denka永久停产 | 7/1 | T-12 | 4047.T/Foosung | WF6已+200%，停产后观察急单流向 |
+| Nittobo 5:1拆股生效 | 6/29 | T-10 | 3110.T | 等拆后回落至目标价范围 |
+| ICL 72h监察到期 | 6/20 | T-1 | ICL | 溴价$3,476/MT，未破红线；明日监察结束 |
+| IQE AGM | 6/30 | T-11 | IQE.L | 正常AGM，无重大议案（Director Hull不再参选） |
+
+*来源：本轮见 reports/bottleneck-map/2026-06-19/15-00-信号扫描.md；DPA：Washington Times 2026-06-18；USNews 2026-06-16；IQE offer period：Morningstar/semiconductor-today 2026-04/05；CLF GOES：PV Magazine 2026-05-11；Adafruit Blog 2026-04-22*

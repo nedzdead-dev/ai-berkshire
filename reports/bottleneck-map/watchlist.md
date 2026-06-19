@@ -279,6 +279,15 @@ FY2026全年业绩（2026-05-15发布）同时披露FY2027经营指引：
 3. **入场区间**：¥3,800-4,200（当前¥4,095在区间内）。等6月8日开盘确认走势后入场
 4. **WF6涨价体现**：FY2027 Q1（约2026年8月财报）将是WF6 70-90%涨价实际落地的首次财报验证点
 
+**【2026-06-19 20:00 ⚠️ 重要论点修正：WF6业务永久停产确认】**：
+- Kanto Denka与Central Glass已正式通知三星/SK Hynix/TSMC，**将于2026年7月1日永久停产WF6**（来源：X/@BeijingDai；wccftech；NaturalNews 2026-06-19）
+- 根本原因：中国高纯钨粉对日出口实质归零（WF6生产成本60-70%来自钨粉）
+- **论点修正**：Kanto Denka原先被追踪为"WF6价格受益方"，但实际上它IS停产方之一；WF6业务收入从7月1日起消失
+- **核心问题**：WF6在Kanto Denka Fine Chemicals分部的收入占比——如WF6是次要业务，NF3（Mitsui退出后唯一主供应商）主导地位不受影响；如WF6是主要业务，FY2027业绩预测需下修
+- **当前状态**：★★★★维持（NF3主thesis仍成立），但加注⚠️待验证WF6收入占比；若WF6>30%收入，评级下调至★★★
+- **WF6新受益方**：Foosung（093370.KS，韩国），P/S 4x，$1.34B市值，已加入预备观察（见新增条目）
+- 来源：[NaturalNews WF6危机 2026-06-19](https://www.naturalnews.com/2026-06-19-tungsten-hexafluoride-crisis-coming-memory-cost-explosion.html) | [wccftech Japan停产](https://wccftech.com/japan-semiconductor-gas-production-collapses-to-zero-after-china-cuts-off-tungsten/) | [TrendForce 2026-06-12](https://www.trendforce.com/news/2026/06/12/news-key-semiconductor-gas-wf%E2%82%86-prices-reportedly-surge-over-200-in-china-as-supply-tightens-ahead-of-japan-output-cuts/)
+
 **加入日期**：2026-05-26  
 **来源**：[TipRanks Kanto Denka FY2027指引](https://www.tipranks.com/news/company-announcements/kanto-denka-kogyo-lifts-profit-and-dividend-projects-strong-fy2027-growth) | [Kanto Denka +24% - Meyka](https://meyka.com/blog/kanto-denka-kogyo-surges-24-as-chemical-demand-accelerates-1805/) | [TrendForce WF6供应中断](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [The Elec Central Glass Samsung暴露](https://www.thelec.net/news/articleView.html?idxno=5468) | [Kanto Denka火灾 TrendForce](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/)
 
@@ -665,6 +674,50 @@ FY2026全年业绩（2026-05-15发布）同时披露FY2027经营指引：
 | Powell Industries (POWL) | 数据中心配电受益，但市值$5.6B且$400M大单已price-in，估值不够便宜 | 2026-05-25 |
 | 顺钠股份 (000533.SZ) | 数据中心变压器受益，但控股股东6月司法拍卖1.2亿股存在重大不确定性 | 2026-05-25 |
 | ICL Group (NYSE:ICL) | 溴化物瓶颈真实，但Industrial Products（含溴）仅占总收入17.3%，不达30%纯正度门槛；非可投资纯正标的 | 2026-05-26 |
+
+---
+
+### 13. Foosung（093370.KS，韩国KOSPI）★★★ 预备观察 【2026-06-19 20:00 新增】
+**代码**：093370.KS（KRX）  
+**瓶颈环节**：WF6（六氟化钨）——Kanto Denka/Central Glass 7月1日永久停产后，成为主要替代供应商  
+**市值**：~$1.34B（¥1.91T韩元，约$1.34B USD；股价17,810 KRW，2026-06-17）  
+**年收入**：$355M  
+**P/S**：4.03x ✅（绿灯，<10x）  
+**PE**：亏损（EPS -$0.03，近乎盈亏平衡）⚠️  
+**收入增速**：数据待核实（过去12月股价+196%，市场已大幅定价）  
+**市值 vs TAM**：全球WF6市场约$2-3B/年（估），$1.34B < 20% × $2.5B = $500M — ⚠️ 接近红线，需确认WF6全球市场规模  
+**52周区间**：4,550 — 23,550 KRW；当前17,810在75th百分位  
+
+**瓶颈定位**：  
+- 韩国WF6 #2生产商（#1：SK Specialty，未上市）  
+- Kanto Denka+Central Glass停产后，Foosung与SK Specialty承接~25%全球产能缺口  
+- 已与中国CSSC Specialty Gases签署大规模WF6进口协议（8月起）  
+- 已向三星/SK Hynix提价70-90%（与日本供应商相同涨幅）  
+- WF6价格已涨+203%/月（2026年4月数据）  
+
+**估值安全边际检验**：  
+- 买入市值：$1.34B  
+- 10年年化10%退出：需净利润 $1.34B × 2.594 / 25 = **$139M**  
+- 对应营收（假设净利率10%）：$1.39B  
+- 从$355M到$1.39B：CAGR **14.7%**  
+- 结论：若WF6业务占比>40%+价格涨幅维持，14.7% CAGR可达；10%回报门槛**边界通过**  
+
+**关键风险**：  
+1. 已涨+196%，情绪溢价风险高  
+2. 目前略亏损，WF6涨价是否能快速转化为利润待验证  
+3. WF6业务在总收入中占比未知（公司同时做refrigerants/锂电池材料/氟化合物）—— **需>30%门槛**  
+4. 若中国直接供应WF6（绕过日本精炼），Foosung份额优势可能减弱  
+5. 鸡与蛋悖论：Foosung自己也依赖中国钨粉原料，若中国收紧对韩供应，同样受困  
+
+**待核实事项（升级条件）**：  
+- [ ] WF6业务收入占比 > 30%（最关键门槛）  
+- [ ] 净利润转正时间表（Q3/Q4 2026？）  
+- [ ] 中国钨粉供货协议与Kanto Denka问题是否相同  
+- [ ] 是否有增发稀释计划  
+
+**评级维持★★★预备观察**：P/S 4x绿灯+$1.34B市值合适✅；但亏损+196%涨幅+WF6业务占比未知 → 不升级。核实收入构成后重评。  
+**加入日期**：2026-06-19  
+**来源**：[KuCoin Foosung受益分析](https://www.kucoin.com/news/flash/china-s-tungsten-export-controls-disrupt-japan-s-wf6-supply-foosung-seen-as-major-beneficiary) | [HTX Insights](https://www.htx.com/news/chinas-export-controls-to-japan-create-bottleneck-white-hair-glBKPbuH/) | [investing.com 093370数据](https://www.investing.com/equities/foosung)
 
 ---
 

@@ -260,6 +260,14 @@
 - **瓶颈评级**：升级 **A级 → S级**（WF6库存本月告罄+供给无替代+6个红灯条件全满足，单点故障级）
 - 新增信源：[TrendForce Kioxia Capex+66% (6/3)](https://www.trendforce.com/news/2026/06/03/news-kioxia-targets-%C2%A5470b-yearly-capex-in-fy26-28-up-66-from-fy25-reportedly-weighing-third-kitakami-fab-and-ma/) | [BigGo 4047.T涨停 (6/4)](https://finance.biggo.com/news/3pe9kZ4BaoGGrU-IuIpV)
 
+**【2026-06-19 20:00 WF6停产倒计时12天 + Kanto Denka持仓逻辑修正】**：
+- **正式确认**：Kanto Denka与Central Glass已通知三星/SK Hynix/TSMC，于**2026年7月1日永久停产WF6**；中国高纯钨粉对日出口实质归零是根本原因（来源：@BeijingDai；TrendForce 2026-06-12；wccftech；NaturalNews 2026-06-19专题）
+- **媒体升温**：NaturalNews今日（6月19日）发表《The Tungsten Hexafluoride Crisis: The Coming Memory Price Explosion That Nobody Is Talking About》；wccftech《Japan's Semiconductor Gas Production Collapses To Zero》——媒体关注从专业圈跨越至财经主流
+- **供给缺口量化**：Kanto Denka+Central Glass合计~2,000-2,200吨/年 = 全球约25%产能；停产后WF6 S级维持，价格已+203%（4月单月）
+- **重要修正：Kanto Denka不再是WF6价格受益方**——它IS停产方；WF6相关收入从7月1日起消失（具体影响取决于WF6在Fine Chemicals分部的占比，待核实）
+- **WF6新受益方**：Foosung（093370.KS，$1.34B，P/S 4x）已新加入watchlist★★★预备观察
+- 新增信源：[NaturalNews 2026-06-19](https://www.naturalnews.com/2026-06-19-tungsten-hexafluoride-crisis-coming-memory-cost-explosion.html) | [TrendForce 2026-06-12 WF6价格+200%](https://www.trendforce.com/news/2026/06/12/news-key-semiconductor-gas-wf%E2%82%86-prices-reportedly-surge-over-200-in-china-as-supply-tightens-ahead-of-japan-output-cuts/) | [wccftech Japan停产](https://wccftech.com/japan-semiconductor-gas-production-collapses-to-zero-after-china-cuts-off-tungsten/)
+
 **来源**：[TrendForce WF6 2026-04-08](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [The Elec 钨供应风险](https://www.thelec.net/news/articleView.html?idxno=6325) | [Digitimes SK Hynix+氦气+钨](https://www.digitimes.com/news/a20260409PD211/2026-sk-hynix-chipmakers-production.html) | [Sourceability Kanto Denka火灾](https://sourceability.com/post/supply-chain-shocks-nf3-fire-natcast-fallout) | [TrendForce Kanto Denka NF3火灾](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/)
 
 ---

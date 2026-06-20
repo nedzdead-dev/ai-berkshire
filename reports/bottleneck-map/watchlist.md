@@ -6103,3 +6103,44 @@ Kanto Denka Kogyo 7/1永久停止WF6生产，**投资论点核心为NF3，而非
 | IQE AGM | 6/30 | **T-10** | IQE.L | 正常年会，无重大议程 |
 
 *来源：Proactive Investors / TrendForce / TipRanks ICL Q1 / ANS Nuclear $2.7B / Digitimes GMT / WccfTech WF6 / Kalkine ALM / Globe and Mail 3110（详见 daily/2026-06-20-am.md）*
+
+---
+
+## 状态快照（2026-06-20 14:00 — 第246轮午间扫描）
+
+> **主要变更**：① **HEX.L（Helix Exploration）升级 ★★★→★★★★**——卡塔尔Ras Laffan遭攻击+霍尔木兹封闭使全球氦气供应减少27-30%，现货价格翻倍，HEX.L作为北美本土唯一在产商具备结构性溢价，估值红灯三项全部未触发，10年25xPE退出法年化回报21-27%；② **新增 Helium One（HE1.L / HLOGF）★★**——Galactica项目与大型美国工业气体公司签首份offtake（合同至8/31），但市值£49.3M、基本无收入，估值数据不足；③ **新增 NEU（NewMarket/AMPAC）★★信号**——唯一美国氯酸铵生产商，SRM供应链危机升温，但NEU以石油添加剂为主营，非纯正标的。
+
+| 标的 | 代码 | 评级 | 变化 | 关键状态/下一催化剂 |
+|------|------|------|------|-------------------|
+| **関東電化** | 4047.T | ★★★★★（最紧迫） | 无变化 | **7/1永久停产 T-11天**；危机已主流化 |
+| **Centrus Energy** | LEU | ★★★★★⚠️ | 无变化 | **6/30 Option 1b T-10天**；每日监控 |
+| **ICL Group** | ICL | ★★★★ | 无变化 | 监察关闭，★★★★维持；**6/25死海续约 T-5天** |
+| **Chemring** | CHG.L | ★★★★ | 无变化 | H1 FY2026在轨，等H2结果（11月） |
+| **Nittobo** | 3110.T | ★★★★ | 无变化 | **5:1拆股6/29生效 T-9天** |
+| **Yageo** | 2327.TW | ★★★★ | 无变化 | MLCC累计涨价+65%；**Q2财报7月中** |
+| **IQE plc** | IQE.L | ★★★★ | 无变化 | Tower多年InP协议已签（6/15）；**8月H1财报** |
+| **Helix Exploration** | HEX.L / HHEXF | **★★★★（⬆升级）** | **★★★→★★★★** | Qatar/Hormuz危机移除27-30%全球氦气供应，现货价翻倍；市值$92M / PS~12x黄灯但Ingomar投产后可降至2-3x；10年CAGR 21-27% |
+| **Helium One** | HE1.L / HLOGF | **★★（🆕新增）** | 新增 | Galactica offtake至8/31；市值£49.3M；基本无收入；等H2产量+收入数据 |
+| **GMT Global Mixed-mode** | 8081.TW | ★★★ | 无变化 | 6/12涨价已捕获；PE 12-14x / PS 2.6x绿灯；**Q2财报7-8月** |
+| **Foosung** | 093370.KS | ★★★ | 无变化 | WF6 7/1停产后受益；等Q2财报 |
+| **Iljin Electric** | 103590.KS | ★★★ | 无变化 | 变压器交期128-144周；等Q2财报 |
+| **Aixtron** | AIXA | ★★★ | 无变化 | 等回调至€42（PS<8.5x） |
+| **Veeco** | VECO | ★★★ | 无变化 | 等Q2盈利兑现 |
+| **uPI Semiconductor** | 6719.TW | ★★★（初始） | 无变化 | 估值核查待完成 |
+| **L3Harris Missile Solutions** | AXYV（待IPO） | ★★★（pre-IPO） | 无变化 | H2 2026 IPO预期 |
+| **NewMarket/AMPAC** | NYSE: NEU | **★★（🆕信号）** | 新增 | 唯一美国AP生产商，SRM危机升温；但NEU多元化大市值，非纯正；需搜索纯正代理标的 |
+| **Almonty Industries** | ALM | ★★ | 无变化 | 估值红灯（PS~54x）不变；Russell 1000纳入T-9天 |
+| **AXT Inc** | AXTI | ★★ | 无变化 | 三重红灯；等PS<25x |
+| **Coherent Corp** | COHR | ★★（估值透支） | 无变化 | 等PS<8x |
+| **Lumentum Holdings** | LITE | ★★（估值透支） | 无变化 | 等PS<10x |
+| **Co-Tech Development** | 8358.TWO | ★★（估值修正） | 无变化 | 等PS<13x重评 |
+
+### 本轮新增候选（下轮估值核查）
+
+| 公司 | 代码 | 候选原因 | 预期评级 |
+|------|------|---------|---------|
+| DB HiTek | 083450.KS | Samsung S7关闭后8英寸PMIC满产受益方（来自09:00扫描） | 待核查 |
+| Helium One | HE1.L | Qatar/Hormuz危机，Galactica offtake签署，等H2收入数据 | 待核查（当前★★） |
+| HD Hyundai Electric | 267260.KS | 变压器4年交期，市值$257亿/PS~10x偏贵，暂不推荐 | 暂不推进（市值过大）|
+
+*来源：CNBC / Proactive HE1 / Discovery Alert / pv-magazine / Breaking Defense Jun 2026（详见 reports/bottleneck-map/2026-06-20/14-00-HEX.md）*

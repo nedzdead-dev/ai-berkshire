@@ -7892,3 +7892,15 @@ ALM、Nittobo 3110.T、IQE.L、CHG.L、HPS.A、ICL Group、Iljin Electric、FORM
 | 2026-06-24 10:08 | **ABF基板瓶颈** | **B级→A级确认** | Ajinomoto（全球95%+ ABF膜）正式宣布Q3涨价30%；Resonac/三菱瓦斯化学CCL同步涨30%。ABF瓶颈进入利润兑现期，缺口延续至2027。Nittobo 3110.T受益逻辑加强（T-glass层数随ABF封装层增加同步需求）。无新投资标的。 |
 | 2026-06-24 10:08 | **Kanto Denka（4047.T）** | **倒计时更新（★★★★维持）** | WF6 T=7天（7/1永久停产）。WF6价格+232.7%（TrendForce 6/12确认）。股价¥3,560（-5.7%自ATH¥3,775）。P/E Forward 30.9x🟡，10年退出12.3%（边际通过）。 |
 | 2026-06-24 10:08 | **其他所有标的** | **无变化** | FormFactor/ICL/Foosung/Nittobo/Chemring/ALM/AXTI/AIXA——均无新基本面信号 |
+
+## 变更日志 — 2026-06-24 13:05（第260轮）
+
+| 时间 | 标的 | 变化 | 摘要 |
+|------|------|------|------|
+| 2026-06-24 13:05 | **IQE.L** | **⚠️ 并购溢价论点正式终结** | 确认：战略投资方为**MACOM Technology Solutions（MTSI）**，£30M @ 19.8p/股，5月15日股东大会批准。**非收购，无并购溢价**。AGM 6/30 = 确认会，无额外公告预期。10:08入库论点（Tower多年供应协议+InP晶圆供应商身份）不变。当前股价~55p vs MACOM入股价19.8p，市场已定价了战略投资溢价。**维持★★★，但移除M&A溢价预期**；8月中期报告（EBITDA转正验证）仍是核心催化剂。来源：IQE官网战略回顾公告（结论日） |
+| 2026-06-24 13:05 | **FORM（FormFactor）** | **多空信号冲突，等待维持** | 12:05已记录：GF Value高估47%警告。本轮新增：Seeking Alpha 6/24发表"Don't Fear the Valuation — HBM4 Earnings Inflection Is Here"，核心论点为HBM4量产启动驱动FORM利润拐点，当前PE合理。两份分析结论相反。不确定性上升，不操作。**维持★★（等待$121区间），待Q2财报验证HBM4探针卡收入实际贡献**。来源：Seeking Alpha 6/24 |
+| 2026-06-24 13:05 | **LEU（Centrus Energy）** | **无新变化★★★★** | T=6天（6/30）Option 1b截止。$900M DOE任务令+$2.3B积压+Oklo LOI均已记录。等待。 |
+| 2026-06-24 13:05 | **WF6/Kanto Denka（4047.T）** | **H2缺口量化确认** | 全球需求8,000-9,000吨，H2缺口~2,000吨（25%产能离线），Q2+232.7%涨价实锤。T=7天（7/1）。Foosung/Stella Chemifa受益逻辑无变化。 |
+| 2026-06-24 13:05 | **固体火箭发动机 — 新增监控** | **新增背景信号（暂无标的）** | 美国仅2家主要供应商（Aerojet Rocketdyne/L3Harris + Northrop Grumman）；五角大楼DPA $4370万授权Anduril扩产（2026-02）、$7300万3D打印测试。**Chemring（CHG.L）已在库，逻辑强化**。私有公司（Anduril、Mach Industries）暂无投资路径。搜索Ducommun（DCO）/ Kratos（KTOS）纯正度>30%可能性——列为下轮任务。来源：Breaking Defense 6/2026 |
+| 2026-06-24 13:05 | **卫星光学互联 — 新增监控** | **新增背景信号（暂无标的）** | SDA Tranche 1因激光星间链路不足受阻；GaAs太阳电池年产~2MW vs 行业需求倍增；辐射加固微电子全面短缺。潜在标的：II-VI/Coherent（但市值过大）。列为下轮深挖任务。来源：SpaceNews/Space Daily 5-6/2026 |
+| 2026-06-24 13:05 | **其他所有标的** | **无变化** | ICL/Foosung/Nittobo/ALM/AXTI/AIXA/Chemring/Sivers——均无新信号 |

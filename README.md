@@ -12,6 +12,45 @@
 
 ---
 
+## 🌐 Web UI — new in this fork
+
+> A browser dashboard on top of the original tools. **Additive only** — it imports the
+> existing `tools/` and skills without changing them. See [`web/`](web/) · [English README](web/README.md)
+
+**Example — TSLA (mixed signal):**
+![Four-Master Dashboard — TSLA](web/assets/dashboard-tsla.png)
+
+**Example — NVDA (bullish signal):**
+![Four-Master Dashboard — NVDA](web/assets/dashboard-nvda.png)
+
+Type any ticker (or company name) and get, on clean cards: a 12-month price chart, the repo's
+**Morningstar fair value**, and the **four-master lenses** from `skills/investment-team.md`
+(Duan Yongping · Buffett · Munger · Li Lu), each with its verdict, reasoning, and the live
+numbers it used — plus an **AI synthesis** card and a **summary** card.
+
+### What this fork adds vs. the original
+
+| | Original | This fork |
+|---|---|---|
+| Interface | CLI tools + Claude Code skill prompts | **+ two web apps** (the original has no UI) |
+| Drive by ticker | manual number entry / China-focused scrapers | **+ live ticker layer** (any listed stock, via yfinance) |
+| Output language | Chinese | **+ English** rendering of the tool output |
+| Ticker entry | exact symbol only | **+ name → ticker autocomplete** |
+| Four masters | exist as prompts (Claude runs them) | **+ visual card dashboard** with price charts |
+
+```bash
+pip install -r web/requirements.txt
+python web/four_master_dashboard.py   # → http://localhost:5056   (four-master dashboard)
+python web/financial_tool.py          # → http://localhost:5055   (financial_rigor.py runner)
+```
+
+> ⚠️ The four-master cards are a **heuristic, educational** reading of each investor's
+> documented principles applied to live numbers — not the investors' real opinions, not a
+> live LLM call, and **not investment advice**. No API keys required. Full notes in
+> [`web/README.md`](web/README.md).
+
+---
+
 ## Real Track Record
 
 > 不是纸上谈兵。这套框架背后是真金白银验证的投资体系。
